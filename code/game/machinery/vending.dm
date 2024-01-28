@@ -1819,6 +1819,7 @@
 					  /obj/item/clothing/head/ushanka = 1,
 					  /obj/item/clothing/under/soviet = 1,
 					  /obj/item/storage/belt/fannypack/black = 1)
+
 	premium = list(/obj/item/clothing/under/suit_jacket/checkered = 1,
 				   /obj/item/clothing/head/mailman = 1,
 				   /obj/item/clothing/under/rank/mailman = 1,
