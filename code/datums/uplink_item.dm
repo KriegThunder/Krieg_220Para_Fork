@@ -1321,7 +1321,7 @@
 	name = "Frag grenade's"
 	desc = "A belt containing 4 lethally dangerous and destructive grenades."
 	item = /obj/item/storage/belt/grenade/frag
-	cost = 20
+	cost = 10
 
 /datum/uplink_item/explosives/grenadier
 	name = "Grenadier's belt"
@@ -1562,6 +1562,12 @@
 	desc = "Worn brownish synthcotton vest with lots of pockets to unload your hands."
 	item = /obj/item/clothing/accessory/storage/brown_vest
 	cost = 5
+
+/datum/uplink_item/device_tools/blackops_kit
+	name = "Black ops kit"
+	desc = "A package of clothing for dangerous covert operations"
+	item = /obj/item/storage/box/syndie_kit/blackops_kit
+	cost = 10
 
 /datum/uplink_item/device_tools/surgerybag
 	name = "Syndicate Surgery Duffelbag"
